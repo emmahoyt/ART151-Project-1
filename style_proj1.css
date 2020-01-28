@@ -1,0 +1,84 @@
+/* CSS Styles */
+
+
+.one{
+  color: purple;
+}
+
+.stanza1{
+  background-color: pink;
+  border: 10px ridge purple;
+}
+
+.stanzalast{
+  background-color: pink;
+  border: 10px ridge purple;
+}
+
+.stanza5{
+  background-image: url(IMG/art151_img2.jpeg);
+  background-repeat: no-repeat;
+  background-size: 250px;
+  background-position: left;
+  border-left: 10px ridge purple;
+
+}
+
+
+.bone {
+  height: 100%;
+  font-family: 'Girassol', cursive;
+  background: url(IMG/art151_img4.jpeg) pink;
+    height: 50%;
+  background-repeat: no-repeat;
+  background-size:cover ;
+
+}
+
+
+
+
+
+
+.two {
+  font-family: 'Sacramento', cursive;
+  font-size: 35px;
+  color: white;
+  background-color: black;
+}
+
+.creepy{
+  height: 10%;
+}
+
+.stalk1 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk2 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk3 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk4 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk5 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk6 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk7 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
+
+.stalk8 {
+  background-image: url(IMG/art151_img5.jpeg);
+}
