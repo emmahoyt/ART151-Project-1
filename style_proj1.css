@@ -3,6 +3,8 @@
 
 .one{
   color: purple;
+  background: url(IMG/art151_img4.jpeg) no-repeat center center fixed pink;
+  background-size: cover;
 }
 
 .stanza1{
@@ -18,21 +20,18 @@
 .stanza5{
   background-image: url(IMG/art151_img2.jpeg);
   background-repeat: no-repeat;
-  background-size: 250px;
+  background-size: 475px;
   background-position: left;
   border-left: 10px ridge purple;
 
 }
 
 
-.bone {
-  height: 100%;
-  font-family: 'Girassol', cursive;
-  background: url(IMG/art151_img4.jpeg) pink;
-    height: 50%;
-  background-repeat: no-repeat;
-  background-size:cover ;
 
+.bone {
+
+  font-family: 'Bonbon', cursive;
+  font-size: 25px;
 }
 
 
@@ -41,7 +40,7 @@
 
 
 .two {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Homemade Apple', cursive;
   font-size: 35px;
   color: white;
   background-color: black;
@@ -87,4 +86,78 @@
 .three {
 font-family: 'Cabin Sketch', cursive;
 font-size: 25px;
+background: url(IMG/art151_img10.jpeg) black;
+background-size: 250px;
+}
+
+
+
+.four {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 25px;
+  background-image: url(IMG/art151_flowers2.gif);
+
+}
+
+.babyboy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.follow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.joyful {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.xoxo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.button3 {
+  width: 250px;
+}
+
+.next {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.button4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.gearhead {
+  background: pink;
+  background-image: url(IMG/art151_3moving.gif);
+}
+
+.gear1 {
+  background-image: url(IMG/art151_moving.gif);
+}
+
+.gear3 {
+  background-image: url(IMG/art151_moving.gif);
+}
+
+.gear5 {
+  background-image: url(IMG/art151_moving.gif);
 }
